@@ -1,0 +1,3 @@
+mechanism,method,missing_rate,mean,mean_bias,variance,variance_bias,variance_ratio,cov_income_spending,cov_bias,corr_income_spending,corr_bias,rmse_on_missing_cells
+MAR,Linear regression,0.3492,71336.44893,195.2649145,497022659.6,-51846343,0.905539677,310833158.5,-25421570.38,0.854430617,-0.025141804,9550.037025
+MAR,Stochastic regression,0.3492,71243.01747,101.8334495,530440542.9,-18428459.73,0.966424667,310580562.9,-25674166,0.826406021,-0.0531664,13604.13252
